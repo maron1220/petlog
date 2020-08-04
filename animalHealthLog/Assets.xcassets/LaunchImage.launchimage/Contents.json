@@ -1,0 +1,216 @@
+{
+  "images" : [
+    {
+      "extent" : "full-screen",
+      "filename" : "IMG_0729 2-2.png",
+      "idiom" : "iphone",
+      "minimum-system-version" : "12.0",
+      "orientation" : "portrait",
+      "scale" : "3x",
+      "subtype" : "2688h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "IMG_0729 2-4.png",
+      "idiom" : "iphone",
+      "minimum-system-version" : "12.0",
+      "orientation" : "landscape",
+      "scale" : "3x",
+      "subtype" : "2688h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "IMG_0729 2-3.png",
+      "idiom" : "iphone",
+      "minimum-system-version" : "12.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "1792h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iphone-Xr-L.png",
+      "idiom" : "iphone",
+      "minimum-system-version" : "12.0",
+      "orientation" : "landscape",
+      "scale" : "2x",
+      "subtype" : "1792h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iphone-X-Xs-P.png",
+      "idiom" : "iphone",
+      "minimum-system-version" : "11.0",
+      "orientation" : "portrait",
+      "scale" : "3x",
+      "subtype" : "2436h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iphone-X-Xs-L.png",
+      "idiom" : "iphone",
+      "minimum-system-version" : "11.0",
+      "orientation" : "landscape",
+      "scale" : "3x",
+      "subtype" : "2436h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPhone Retina HD 5.5-Portrait@3x.png",
+      "idiom" : "iphone",
+      "minimum-system-version" : "8.0",
+      "orientation" : "portrait",
+      "scale" : "3x",
+      "subtype" : "736h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPhone Retina HD 5.5-Landscape@3x.png",
+      "idiom" : "iphone",
+      "minimum-system-version" : "8.0",
+      "orientation" : "landscape",
+      "scale" : "3x",
+      "subtype" : "736h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPhone Retina HD 4.7-Portrait@2x.png",
+      "idiom" : "iphone",
+      "minimum-system-version" : "8.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "667h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPhone 7.0-Portrait@2x.png",
+      "idiom" : "iphone",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPhone 7.0 Retina 4-Portrait@2x.png",
+      "idiom" : "iphone",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "retina4"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPad 7.0-Portrait.png",
+      "idiom" : "ipad",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPad 7.0-Landscape.png",
+      "idiom" : "ipad",
+      "minimum-system-version" : "7.0",
+      "orientation" : "landscape",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPad 7.0-Portrait@2x.png",
+      "idiom" : "ipad",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPad 7.0-Landscape@2x.png",
+      "idiom" : "ipad",
+      "minimum-system-version" : "7.0",
+      "orientation" : "landscape",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPhone-Portrait.png",
+      "idiom" : "iphone",
+      "orientation" : "portrait",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPhone-Portrait@2x.png",
+      "idiom" : "iphone",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPhone Retina 4-Portrait@2x.png",
+      "idiom" : "iphone",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "retina4"
+    },
+    {
+      "extent" : "to-status-bar",
+      "filename" : "iPad-Portrait.png",
+      "idiom" : "ipad",
+      "orientation" : "portrait",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPad Full Screen-Portrait.png",
+      "idiom" : "ipad",
+      "orientation" : "portrait",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "to-status-bar",
+      "filename" : "iPad-Landscape.png",
+      "idiom" : "ipad",
+      "orientation" : "landscape",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPad Full Screen-Landscape.png",
+      "idiom" : "ipad",
+      "orientation" : "landscape",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "to-status-bar",
+      "filename" : "iPad-Portrait@2x.png",
+      "idiom" : "ipad",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPad Full Screen-Portrait@2x.png",
+      "idiom" : "ipad",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "to-status-bar",
+      "filename" : "iPad-Landscape@2x.png",
+      "idiom" : "ipad",
+      "orientation" : "landscape",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "iPad Full Screen-Landscape@2x.png",
+      "idiom" : "ipad",
+      "orientation" : "landscape",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

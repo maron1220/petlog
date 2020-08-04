@@ -1,0 +1,6 @@
+framework module Pods_animalHealthLog {
+  umbrella header "Pods-animalHealthLog-umbrella.h"
+
+  export *
+  module * { export * }
+}

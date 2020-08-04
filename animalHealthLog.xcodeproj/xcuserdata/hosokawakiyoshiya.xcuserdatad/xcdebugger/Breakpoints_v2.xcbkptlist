@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "773D76BE-7BBC-4BFF-BF99-54BC676F1FE8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B7E1215-34D0-423F-B146-FF2E44B7DE5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "animalHealthLog/showCreValue.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "showCreValue"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C66EA42-25AA-4636-A54B-9D56660B2827"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "animalHealthLog/BtListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "767"
+            endingLineNumber = "767"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CE42677-C960-47F4-9EB7-8C45D3DD5798"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "animalHealthLog/MemoByDayView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5CE42677-C960-47F4-9EB7-8C45D3DD5798 - 748743d0afe31017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;SwiftUI.FetchedResults&lt;animalHealthLog.BtList&gt;, Swift.Optional&lt;Foundation.UUID&gt;, Swift.Optional&lt;SwiftUI.Text&gt;&gt; in closure #1 () -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;SwiftUI.FetchedResults&lt;animalHealthLog.BtList&gt;, Swift.Optional&lt;Foundation.UUID&gt;, Swift.Optional&lt;SwiftUI.Text&gt;&gt;, SwiftUI.EmptyView&gt; in animalHealthLog.MemoByDayView.body.getter : some"
+                  moduleName = "animalHealthLog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hosokawakiyoshiya/Library/Mobile%20Documents/com~apple~CloudDocs/animalHealthLog/animalHealthLog/MemoByDayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "5CE42677-C960-47F4-9EB7-8C45D3DD5798 - 67d81c2d4a019827"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (animalHealthLog.BtList) -&gt; Swift.Optional&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;SwiftUI.FetchedResults&lt;animalHealthLog.BtList&gt;, Swift.Optional&lt;Foundation.UUID&gt;, Swift.Optional&lt;SwiftUI.Text&gt;&gt; in closure #1 () -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;SwiftUI.FetchedResults&lt;animalHealthLog.BtList&gt;, Swift.Optional&lt;Foundation.UUID&gt;, Swift.Optional&lt;SwiftUI.Text&gt;&gt;, SwiftUI.EmptyView&gt; in animalHealthLog.MemoByDayView.body.getter : some"
+                  moduleName = "animalHealthLog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hosokawakiyoshiya/Library/Mobile%20Documents/com~apple~CloudDocs/animalHealthLog/animalHealthLog/MemoByDayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "5CE42677-C960-47F4-9EB7-8C45D3DD5798 - 67d81c2d4a019827"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (animalHealthLog.BtList) -&gt; Swift.Optional&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;SwiftUI.FetchedResults&lt;animalHealthLog.BtList&gt;, Swift.Optional&lt;Foundation.UUID&gt;, Swift.Optional&lt;SwiftUI.Text&gt;&gt; in closure #1 () -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;SwiftUI.FetchedResults&lt;animalHealthLog.BtList&gt;, Swift.Optional&lt;Foundation.UUID&gt;, Swift.Optional&lt;SwiftUI.Text&gt;&gt;, SwiftUI.EmptyView&gt; in animalHealthLog.MemoByDayView.body.getter : some"
+                  moduleName = "animalHealthLog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hosokawakiyoshiya/Library/Mobile%20Documents/com~apple~CloudDocs/animalHealthLog/animalHealthLog/MemoByDayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "2116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB16B09B-665A-4B25-9020-C72AB31258AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "animalHealthLog/MemoByDayView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

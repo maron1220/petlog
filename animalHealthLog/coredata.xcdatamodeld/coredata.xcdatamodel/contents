@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19C57" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BtList" representedClassName=".BtList" syncable="YES" codeGenerationType="class">
+        <attribute name="alb" optional="YES" attributeType="String"/>
+        <attribute name="alp" optional="YES" attributeType="String"/>
+        <attribute name="alt" optional="YES" attributeType="String"/>
+        <attribute name="amy" optional="YES" attributeType="String"/>
+        <attribute name="ast" optional="YES" attributeType="String"/>
+        <attribute name="bun" optional="YES" attributeType="String"/>
+        <attribute name="ca" optional="YES" attributeType="String"/>
+        <attribute name="cl" optional="YES" attributeType="String"/>
+        <attribute name="cpk" optional="YES" attributeType="String"/>
+        <attribute name="cre" optional="YES" attributeType="String"/>
+        <attribute name="crp" optional="YES" attributeType="String"/>
+        <attribute name="ggt" optional="YES" attributeType="String"/>
+        <attribute name="glu" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="imageData" optional="YES" attributeType="Binary"/>
+        <attribute name="ip" optional="YES" attributeType="String"/>
+        <attribute name="isComplete" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="k" optional="YES" attributeType="String"/>
+        <attribute name="lip" optional="YES" attributeType="String"/>
+        <attribute name="message" optional="YES" attributeType="String"/>
+        <attribute name="mg" optional="YES" attributeType="String"/>
+        <attribute name="na" optional="YES" attributeType="String"/>
+        <attribute name="nh" optional="YES" attributeType="String"/>
+        <attribute name="phototitle" optional="YES" attributeType="String"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="tbil" optional="YES" attributeType="String"/>
+        <attribute name="tcho" optional="YES" attributeType="String"/>
+        <attribute name="tg" optional="YES" attributeType="String"/>
+        <attribute name="tp" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="BtList" positionX="-63" positionY="-18" width="128" height="478"/>
+    </elements>
+</model>
